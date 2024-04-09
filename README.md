@@ -7,3 +7,27 @@
 Solana lacks accessible resource information specifically tailored for developers, hindering the adoption and innovation.
 
 To address this gap, we aim to establish Querik, a streamlined DApp platform designed to empower developers by providing comprehensive educational resources, practical tools, and a supportive community environment focused on Solana blockchain development.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+
+## Features
+
+- **Educational Hub**: Curate tutorials, guides, and videos focusing on blockchain development, smart contracts, and Solana ecosystem essentials.
+- **Analytics and Tools**: Access analytics providing insights into staking, DeFi, program data, and other blockchain metrics. Utilize tools such as our RPC methods checker, token launcher, and other developer utilities.
+- **Community Engagement**: Cultivate a vibrant developer community for idea sharing, project collaboration, and constructive feedback.
+
+## Getting Started
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/nauriculus/querik.git
+cd querik
+npm install
+npm start
