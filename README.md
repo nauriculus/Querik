@@ -17,11 +17,11 @@ To address this gap, we aim to establish Querik, a streamlined DApp platform des
 ## Features
 
 - **Educational Hub**: Curate tutorials, guides, and videos focusing on blockchain development, smart contracts, and Solana ecosystem essentials.
-<img src="https://github.com/nauriculus/Querik/assets/24634581/1689f05f-090e-4c08-b232-eab7b9f12402" alt="icon" width="200"/>
+  <img src="https://github.com/nauriculus/Querik/assets/24634581/1689f05f-090e-4c08-b232-eab7b9f12402" alt="icon" width="200"/>
     
 - **Analytics and Tools**: Access analytics providing insights into staking, DeFi, program data, and other blockchain metrics. Utilize tools such as our RPC methods checker, token launcher, and other developer utilities.
-<img src="https://github.com/nauriculus/Querik/assets/24634581/d18025ef-4e8a-462d-af03-cb2773e0308e" alt="icon" width="200"/>
-<img src="https://github.com/nauriculus/Querik/assets/24634581/27fff9cf-3a2c-4fcc-9ce3-cf74ea4d1ba0" alt="icon" width="200"/>
+  <img src="https://github.com/nauriculus/Querik/assets/24634581/d18025ef-4e8a-462d-af03-cb2773e0308e" alt="icon" width="200"/>
+  <img src="https://github.com/nauriculus/Querik/assets/24634581/27fff9cf-3a2c-4fcc-9ce3-cf74ea4d1ba0" alt="icon" width="200"/>
 
 - **Community Engagement**: Cultivate a vibrant developer community for idea sharing, project collaboration, and constructive feedback.
 
